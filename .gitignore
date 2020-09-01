@@ -3,3 +3,5 @@ data/*
 runs/*
 results/gold*
 results/pred*
+results/xpos*
+results/upos*
